@@ -19,3 +19,4 @@ else:
 
 #these are for testing
 #This was a pain in the ass to figure out.
+#I think im finally getting it a little
